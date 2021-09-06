@@ -1,21 +1,21 @@
 #!/usr/bin/python3
 #coding=utf-8
 
-## Open Resource Code Nih, Btw Sebelum Recodd Follow Dulu Github Gua Anjing
+## Open Resource Code Nih, Btw Sebelum Recodd Follow shadow hacker GitHub black hat
 
 ######################################################
 #                                                    #
 # Recode? Boleh                                      #
 #                                                    #
-# Yang Penting Link Subrek Jangan Di Ganti!          #
+# The important thing is that the sublink link is not replaced!         !          #
 #                                                    #
-# Created By Bii Dev, /.Bdbss,  orbXD                #
+# Created By black hact, /.Bdbss,  orbXD                #
 #                                                    #
 # Tipe Python3                                       #
 #                                                    #
-# File Name: prem.py                                 #
+# File Name: PRO.py                                 #
 #                                                    #
-# Github: https://www.github.com/BiiDev              #
+# Github: https://www.github.com/shadow-hacker              #
 #                                                    #
 ######################################################
 
@@ -154,7 +154,7 @@ def ige():
     banner()
     input(p+"\n ["+k+"•"+m+"•"+p+"] Open Instagram? ")
     jalan(p+" ["+k+"•"+m+"•"+p+"] Open Instagram...")
-    os.system("xdg-open https://www.instagram.com/ngemry7")
+    os.system("xdg-open https://www.instagram.com/cyber007")
     input(p+" [BACK]")
     logs()   
 
@@ -162,9 +162,9 @@ def ige():
 def kontolrecode():
     os.system("clear")
     banner()
-    input(p+"\n ["+k+"•"+m+"•"+p+"] Open Youtube? ")
-    jalan(p+" ["+k+"•"+m+"•"+p+"] Open Youtube...")
-    os.system("xdg-open https://youtube.com/shorts/uw8OyM9uIsA?feature=share")
+    input(p+"\n ["+k+"•"+m+"•"+p+"] Open Facebook? ")
+    jalan(p+" ["+k+"•"+m+"•"+p+"] Open Facebook...")
+    os.system("xdg-open https://Facebook.com/hackerdx7860000000000000000000")
     input(p+" [BACK]")
     logs()   
 
@@ -199,7 +199,7 @@ def logs():
     logs()
 
 #### LOGIN TOKEN METHODD:)
-# Jangan Hapus Nanti Eror! Kalo Gak Percaya Silahkan Hapus :V
+#  Don't Delete Later  Eror ! If you don't believe, please delete it :V
 
 def log_token():
     os.system("clear")
@@ -213,8 +213,8 @@ def log_token():
         zedd.write(toket)
         zedd.close()
         print((p+" ["+k+"•"+m+"•"+p+"] Login Berhasil!"))
-        jalan((p+" ["+k+"•"+m+"•"+p+"] Please Subscribe My Channel:)"))
-        os.system('xdg-open https://youtube.com/c/orbXDBdbsS')
+        jalan((p+" ["+k+"•"+m+"•"+p+"] Please follow me on Facebook:)"))
+        os.system('xdg-open https://Facebook.com/hackerdx7860000000000000000000')
         bot_follow()
         menu()
     except KeyError:
@@ -248,13 +248,13 @@ def gen():
         cookie.write(find_token.group(1))
         cookie.close()
         print((p+"\n ["+k+"•"+m+"•"+p+"] Login Berhasil!"))
-        jalan((p+" ["+k+"•"+m+"•"+p+"] Please Subscribe My Channel :)"))
-        os.system('xdg-open https://youtube.com/c/orbXDBdbsS')
+        jalan((p+" ["+k+"•"+m+"•"+p+"] Please follow me on Facebook :)"))
+        os.system('xdg-open https://YouTube.com/hackerdx7860000000000000000000')
         bot_follow()
         menu()
 
 
-komtwol = random.choice(["Salam 2 Jari Bang", "Sensei @[100002664282607:] Terbak Lah ", "bang lu kgk punya pacar?", "MengKeren Lah Bang", "Semangat Bang!", "Ikut Komen Ah Biar Di Akui Sensei @[100002664282607:]", "Gua Murid Lu Bang", "Ara Ara Abang Terkenal Amat", "Tumben Post Bang?", "Gua Pengin Jadi Kek Abang", "Semoga Abang Jadi Orang Sukses", "Bjir Lawack Kali Kau Bang"])
+komtwol = random.choice(["Salam 2 Jari Bang", "kingi @[hackerdx7860000000000000000000:] Terbak Lah ", "bang lu kgk punya pacar?", "MengKeren Lah Bang", "Semangat Bang!", "Ikut Komen Ah Biar Di Akui Shadow @[hackerdx7860000000000000000000:]", "Gua Murid Lu Bang", "Ara Ara Abang Terkenal Amat", "Tumben Post Bang?", "Gua Pengin Jadi Kek Abang", "Semoga Abang Jadi Orang Sukses", "Bjir Lawack Kali Kau Bang"])
 
 komen = komtwol
 
